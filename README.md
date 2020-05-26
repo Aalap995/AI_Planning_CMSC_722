@@ -22,3 +22,11 @@ The course covers topics listed below :
   - Acting with Temporal Models
  # 4) Deliberation with Nondeterministic Models 
  # 5) Deliberation with Probabilistic Models
+ # Project 1 Comparing Domain-Speciﬁc and Domain-Independent Planning
+  - Programmed Racetrack game in PDDL
+  - Developed python script to generate diiferent problem domains 
+  - Carfted a python simulation that displays the problem domain and the path using matplot lib 
+  - Reported difference between Domain-Speciﬁc and Domain-Independent Planning
+    - CPU time with GBFS (2 different heuristics)
+    - Node generation with GBFS (2 different heuristics)
+    
